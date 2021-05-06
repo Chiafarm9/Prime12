@@ -1,5 +1,5 @@
 ### About
-“Blood Point” is an android application to collect or donate blood easily. Who have an android phone & internet connection can contact and searching for donor easily through this application. The purpose of this application is to help the rural people.
+“Blood Point” is an android application to collect or donate blood easily. Users who have an android phone & active internet connection can contact and start searching for a donor easily through this application. The purpose of this application is to help people belonging to rural areas .
 
 ### Features
 Easy contact between blood donor and blood recipient through this android application.<br>
@@ -30,7 +30,10 @@ Included:
 ![](https://img.shields.io/github/issues/imshakil/BloodBank.svg) 
 
 
+### Database Snapshot
+Follow this link: https://github.com/imShakil/BloodBank/wiki/Databse-Snapshots
 (This project can be used for any educational purpose and can be changed or modified in need.<br><b> A star will be appriciated if you think it might be helpful.</b>)<br>
 
-@imShakil<br>
-E-Mail: mh.ice.iu@gmail.com
+### Changing Database and Package Name
+I got so many mails on about 'How to change Database link and Package Name'. So, Who has queries can watch this video: https://www.youtube.com/watch?v=nAzAo7shGKQ&ab_channel=AnubhavAnand
+
